@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @castmallards
+- 👋 Hi, I’m @castmallards aka Obaid Ali
 - 👀 I’m interested in Computer Science and working on fun projects or making games.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
